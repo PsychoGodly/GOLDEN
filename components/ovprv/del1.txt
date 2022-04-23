@@ -1,0 +1,104 @@
+       
+.kgrimpact{
+    bacound-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+.nmovies{
+
+    border: black;
+    border: 11px;
+    size: 500px;
+
+}
+.nmtitle{
+    padding: 0;
+    margin: 0;
+}
+.box2{
+    height: 50px;
+}
+.section1_{
+    text-align: center;
+    background-color: white;
+    overflow-y: scroll hidden;
+}
+.right{
+    float: right;
+    background-color: black;
+    margin-top: 22px;
+}
+.left{
+    float: left;
+    background-color: black;
+    margin: 22px;
+}
+ <section class="section1">
+
+        <!--cinema-->
+            <div class="ipmact">
+                
+            </div>
+            <!--New Movies-->
+            <article>
+                
+                <!--Posters-->
+                <center>
+                <div>
+                    <table class="nmovies">
+                        <caption class="nmtitle">NEW MOVIES</caption>
+                        <tr>
+                            <th>
+                                <img src="img/posters/1917.jpg">
+                            </th>
+
+                            <th>
+                                <img src="img/posters/birds_of_prey_ver15.jpg">
+                            </th>
+
+                            <th>
+                            <img src="img/posters/dolittle.jpg">
+                            </th>
+                        </tr>
+                    </table>
+                </div>    
+                </center>
+            </article>
+
+            <h1> Get The Golden Benifits</h1>
+            <!--Promote 1-->
+            <article>
+                <table>
+                    <tr>
+                        <th>
+                            <img src="img/posters/dolittle.jpg"">
+                        </th>
+
+                        <th>
+                                <p>text</p>
+                        </th>
+                    </tr>
+                </table>
+            </article>
+            <!--promote 2-->
+            <article>
+                <table>
+                    <tr>
+                        <th>
+                            <img src="img/posters/dolittle.jpg"">
+                        </th>
+
+                        <th>
+                            text
+                        </th>
+                    </tr>
+                </table>
+
+            </article>
+
+
+
+
+        </section>
